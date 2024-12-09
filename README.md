@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Ruben van Erk 👋
 
-<!--
-**rubenvanerk/rubenvanerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a passionate developer specializing in Laravel. I focus on projects and organizations that aim to improve animal rights. My goal is to leverage technology to make a positive impact on the world.
 
-Here are some ideas to get you started:
+## Organizations I Work For
+- We The Free
+- Fish Welfare Initiative
+- Cage Undefined
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- TALL-stack (Tailwind CSS, Alpine.js, Laravel, Livewire)
+- Filament
+
+## Get in Touch
+- Email: hello@rubenvanerk.nl
+- LinkedIn: [rubenvanerk](https://www.linkedin.com/in/rubenvanerk)
+- Personal Website: [rubenvanerk.com](https://rubenvanerk.com)
